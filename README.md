@@ -15,5 +15,5 @@ With Francinette using the --strict tests, two timeouts may occurre when process
 
 ## Useful resources
 
-- [get_next_line explained](https://www.youtube.com/watch?v=8E9siq7apUU)
-- ["everything is a file"](https://www.youtube.com/watch?v=-gP58pozNuM)
+- [Video Tutorial](https://www.youtube.com/watch?v=8E9siq7apUU)
+- [Video about fd's in Linux](https://www.youtube.com/watch?v=-gP58pozNuM)
